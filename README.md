@@ -48,4 +48,4 @@ Login to Heroku then get repo link for the project it will be something like thi
 heroku git:remote -a pizzaordermanagement
 git push heroku master
 then a url will be generated in the terminal and by opening this url it will contain the deployed application and the url will look something like this:
-ttps://pizzaordermanagement.herokuapp.com/
+https://pizzaordermanagement.herokuapp.com/
